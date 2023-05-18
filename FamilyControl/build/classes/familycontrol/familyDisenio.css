@@ -1,0 +1,93 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02-abr-2023, 21:03:23
+    Author     : Data
+*/
+
+.top-formulario{
+     -fx-background-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+}
+
+.navegacion-formulario{
+    -fx-background-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+}
+
+.central-formulario{
+    -fx-background-color: #FFFFFF;
+}
+
+.boton-navegacion{
+    -fx-background-color: transparent;
+    -fx-border-color: #ffffff;
+    -fx-border-radius: 8px;
+    -fx-text-fill: #fff;
+    -fxf-font-size: 14px;
+    -fx-background-radius: 8px;
+    
+    
+}
+
+.boton-navegacion:hover{
+     -fx-background-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+     -fx-background-radius: 8px;
+     -fx-cursor: hand;
+}
+
+.pestanias{
+    -fx-background-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+    -fx-background-radius: 8px;
+   
+    -fx-border-radius: 8px;
+    -fx-border-width: 4px;
+}
+
+.bordes{
+    -fx-background-color: transparent;
+    -fx-border-radius: 8px;
+    -fx-border-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+    -fx-border-width: 4px;
+}
+
+.vista-tabla{
+     -fx-background-color: transparent;
+     -fx-border-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+     -fx-border-width: 2px;
+     -fx-border-radius: 8px;
+     -fx-padding: 0;
+}
+
+.vista-tabla, .table-column{
+    -fx-alignment: CENTER;
+}
+
+.vista-tabla, .column-header-background{
+    -fx-background-color: #5abec7;
+    -fx-background-radius: 8px 8px 0 0;
+    -fx-background-insets: 0 0 0 0;
+}
+
+.vista-tabla, .column-header, .filter{
+    -fx-background-color: transparent;
+    -fx-size: 40px;
+    
+}
+
+.vista-tabla, .column-header .label{
+    -fx-text-fill: #fff;
+    -fx-font-family: Arial;
+    -fx-font-size: 14px;    
+}
+
+.botonesBD{
+    -fx-background-color: #5abec7 ;
+    -fx-border-radius: 8px;
+    -fx-text-fill: #fff;
+    -fxf-font-size: 14px;
+    -fx-cursor: hand;
+    -fx-background-radius: 8px;
+}
+

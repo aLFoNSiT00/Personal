@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02-abr-2023, 12:35:40
+    Author     : Alfonso Santamaria Borondo
+*/
+
+.fondo{
+    -fx-background-color: linear-gradient(to bottom right, #5abec7, #f4efef);
+}
+
+.boton-login{
+    -fx-background-color: linear-gradient(to bottom right, #dcd9d9, #e4dddd);
+    -fx-background-radius: 8px;
+    -fx-text-fill: #0d0000;
+    -fx-font-size: 14px;
+    -fx-cursor: hand;
+    -fx-animation: gradient 15s ease;
+}
+
+.boton-login:hover{
+    -fx-background-color: #f6f9fa;
+
+}
+
+.bordes{
+    -fx-background-radius: 8px;
+    }
+
+    .botonSalir{
+        -fx-cursor: hand;
+    }
+
+
+
