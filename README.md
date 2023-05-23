@@ -4,4 +4,4 @@ Personal project to help in the organization of a family. Contains a plan manage
 ![](cuentas.png "accounts screenshot")
 ![](login.png "login screenshot")
 ![](tareas.png "task screenshot")
-![](agenda.png "contacts screenshot")
+![](agenda2.png "contacts screenshot")
